@@ -1,0 +1,12 @@
+c:\users\rvz8x9q4\documents\visual studio 2015\Projects\TCP Server\TCP Server\bin\Debug\TCP Server.exe.config
+c:\users\rvz8x9q4\documents\visual studio 2015\Projects\TCP Server\TCP Server\bin\Debug\TCP Server.exe
+c:\users\rvz8x9q4\documents\visual studio 2015\Projects\TCP Server\TCP Server\bin\Debug\TCP Server.pdb
+c:\users\rvz8x9q4\documents\visual studio 2015\Projects\TCP Server\TCP Server\obj\Debug\TCP Server.csprojResolveAssemblyReference.cache
+c:\users\rvz8x9q4\documents\visual studio 2015\Projects\TCP Server\TCP Server\obj\Debug\TCP Server.exe
+c:\users\rvz8x9q4\documents\visual studio 2015\Projects\TCP Server\TCP Server\obj\Debug\TCP Server.pdb
+Z:\TCP Server.exe.config
+Z:\TCP Server.exe
+Z:\TCP Server.pdb
+C:\Users\RVZ8X9Q4\Documents\Visual Studio 2015\Projects\TCP Server Lite\TCP Server\obj\Debug\TCP Server.exe
+C:\Users\RVZ8X9Q4\Documents\Visual Studio 2015\Projects\TCP Server Lite\TCP Server\obj\Debug\TCP Server.pdb
+C:\Users\RVZ8X9Q4\Documents\Visual Studio 2015\Projects\TCP Server Lite\TCP Server\obj\Debug\TCP Server.csprojResolveAssemblyReference.cache
